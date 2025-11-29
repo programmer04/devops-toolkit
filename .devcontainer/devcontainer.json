@@ -1,9 +1,9 @@
 {
-	"image": "mcr.microsoft.com/devcontainers/universal:2.0.11-focal",
+	"image": "mcr.microsoft.com/devcontainers/universal:5.0.2",
 	"features": {
-		"ghcr.io/devcontainers-contrib/features/packer-asdf:2": {},
-		"ghcr.io/devcontainers-contrib/features/terraform-asdf:2": {},
+		"ghcr.io/devcontainers-extra/features/packer-asdf:2": {},
+		"ghcr.io/devcontainers-extra/features/terraform-asdf:2": {},
 		"ghcr.io/devcontainers/features/aws-cli:1": {},
-		"ghcr.io/devcontainers-contrib/features/ansible:2": {},
+		"ghcr.io/devcontainers-extra/features/ansible:2": {}
 	}
 }
