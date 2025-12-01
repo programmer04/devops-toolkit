@@ -21,7 +21,14 @@
 				"chat.commandCenter.enabled": false,
 				"extensions": {
 					"ignoreRecommendations": true
-				}
+				},
+				"terminal.integrated.suggest.enabled": false,
+				"workbench.colorTheme": "Quiet Light",
+				"editor.bracketPairColorization.enabled": true,
+				"editor.mouseWheelZoom": true,
+				"editor.fontSize": 20,
+				"terminal.integrated.fontSize": 20,
+				"editor.formatOnSave": true
 			}
 		}
 	}
